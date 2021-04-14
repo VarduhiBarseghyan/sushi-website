@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'GoodDog';
+    src: url('GoodDog.otf') format('truetype');
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'GoodDog Cool';
+    src: url('GoodDog Cool.otf') format('truetype');
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url('Montserrat Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url('Montserrat Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'Montserrat Light';
+    src: url('Montserrat Light.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 200;
+}
+
